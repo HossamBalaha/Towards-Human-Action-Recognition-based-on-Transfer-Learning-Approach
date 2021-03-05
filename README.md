@@ -1,5 +1,7 @@
 # Towards Human Action Recognition based on Transfer Learning Approach (Research Paper Script)
-HMBD v1 is an Arabic Handwritten Characters Dataset.
+
+>More information will be written upon the research paper publication.
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 [![GitHub stars](https://img.shields.io/github/stars/HossamBalaha/Towards-Human-Action-Recognition-based-on-Transfer-Learning-Approach.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/HossamBalaha/Towards-Human-Action-Recognition-based-on-Transfer-Learning-Approach/stargazers/) [![GitHub followers](https://img.shields.io/github/followers/HossamBalaha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/HossamBalaha?tab=followers) [![GitHub watchers](https://img.shields.io/github/watchers/HossamBalaha/Towards-Human-Action-Recognition-based-on-Transfer-Learning-Approach.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/HossamBalaha/Towards-Human-Action-Recognition-based-on-Transfer-Learning-Approach/watchers/)
 
